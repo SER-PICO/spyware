@@ -61,5 +61,8 @@ cd server
 - **(Optionnal) Configure your firewall to allow communication through the specified port.**
 - **Use responsibly and only with appropriate permissions.**
 
+## Disclaimer
+
+This program is provided for educational and entertainment purposes only. The author shall not be held responsible for any misuse or damage caused by this program. Users are advised to use this program responsibly and in compliance with applicable laws and regulations.
 
 
